@@ -2,3 +2,6 @@ h1{
     background-color: aqua;
     align: center; 
 }
+.done{
+    text-decoration: line-through;
+}
